@@ -1,9 +1,7 @@
-# Node-Authentication-Api
+# Node.js Shooping cart
 
-API for egistering users with mongodb and authentication using jwt(json meb token).Thia app uses passport, passport-jwt and uses a jwt Strategy.
+Shopping cart in node.js with payments handled with stripe.js.
 
-# Version
-1.0.0
 
 # Usage
 npm install
